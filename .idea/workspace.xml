@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c57088a5-d770-4ffa-9e08-44b84843eca8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_/node_modules/slick-carousel/slick/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_/node_modules/slick-carousel/slick/fonts/slick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/app.7431dd9c8f35a081148d.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/app.a274466540c37e8d1610.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/app.f08539b39ec4164d8696.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/app.f08539b39ec4164d8696.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/app.f4e4f14468a6c6efd2d7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/app.f4e4f14468a6c6efd2d7.js.LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/advantage-icon-01.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/advantage-icon-01.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/advantage-icon-02.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/advantage-icon-02.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/advantage-icon-03.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/advantage-icon-03.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/advantage-icon-04.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/advantage-icon-04.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/avatar-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/avatar-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/avatar-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/avatar-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/avatar-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/avatar-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/home.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/logo-footer.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo-footer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/logo-footer.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo-footer.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/question-image-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/question-image-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/question-image-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/question-image-02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/question-image-03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/question-image-03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/service-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/service-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/service-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/service-02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/service-03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/service-03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/service-04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/service-04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/star.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/star.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/star.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/star.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/scrips.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/slider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vwVqjvSstWtO4voYFre8d9og70" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c57088a5-d770-4ffa-9e08-44b84843eca8" name="Default Changelist" comment="" />
+      <created>1627473330474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627473330474</updated>
+      <workItem from="1627473331757" duration="27162000" />
+      <workItem from="1627544205421" duration="6399000" />
+      <workItem from="1627552006182" duration="1303000" />
+    </task>
+    <task id="LOCAL-00001" summary="Prepared test work">
+      <created>1627552211768</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627552211768</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add dist">
+      <created>1627552936479</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627552936479</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Prepared test work" />
+    <MESSAGE value="Add dist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add dist" />
+  </component>
+</project>
